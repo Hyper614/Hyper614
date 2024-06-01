@@ -4,4 +4,5 @@ I am currently interested in Java coding projects, Minecraft: Java Edition being
 Stats
 Relationship: Taken
 Level: 14
+
 XP: 153 / 165 (Birthday Level-Up)
